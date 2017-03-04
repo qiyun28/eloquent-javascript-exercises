@@ -10,4 +10,6 @@ for (var i = 1; i <=100 ; i++) {
     content = i;
   }
   console.log(content);
+  // solution from author, save the last if block
+  // console.log(content || i);
 }
